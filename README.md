@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js,Redux-toolkit**
 
-- 💬 Ask me about **Vue.js, Nuxt.js, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, Nuxt.js, Figma**
 
 - 📫 How to reach me **danicisneros2@hotmail.com**
 
