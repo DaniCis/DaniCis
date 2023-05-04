@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/danicisneros99" target="blank"><img src="https://img.shields.io/twitter/follow/danicisneros99?logo=twitter&style=for-the-badge" alt="danicisneros99" /></a> </p>
 
-- 🔭 I’m currently working on **krugerStar**
-
 - 🌱 I’m currently learning **React.js, SpringBoot**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Nuxt.js, Figma**
